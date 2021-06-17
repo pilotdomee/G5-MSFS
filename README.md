@@ -2,4 +2,5 @@
 
 A freeware Garmin G5 avionics for the Microsoft Flight Simulator.
 
-Use it if you know, how to install it. This repository only contains the textures.
+Use it if you are a developer. This repository only contains the textures. 
+Code will be uploaded soon. 
